@@ -1,0 +1,81 @@
+.Nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+    height: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+    margin-left: 230px;
+}
+.title{
+  color: azure;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.earth{
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  color: azure;
+}
+
+.image{
+  width: 125px;
+  height: 168px;
+  margin-left: 15px;
+  color: azure;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.content-container{
+  position: relative;
+}
+.section1{
+  position: absolute;
+  left: 150px;
+  bottom: 77%;
+}
+.section1 :nth-child(1)
+{
+  margin-left: 10px;
+  color: #F55A5A;
+  height: 20px;
+}
+.section1 :nth-child(2)
+{
+  margin-left: 10px;
+  font-weight: 200;
+}
+.section1 :nth-child(3)
+{
+  margin-left: 10px;
+  font-weight: 300;
+  color: grey;
+}
+
+.Title{
+  position: absolute;
+  left: 161px;
+  bottom: 45%;
+}
+.section2{
+  position: absolute;
+  left: 162px;
+  bottom: 37%;
+  font-weight: bold;
+}
+.description{
+  position: absolute;
+  left: 162px;
+  top: 110px;
+  margin-right: 5px;
+  font-weight: 300;
+}
+.content-container hr{
+  opacity: 1;
+}

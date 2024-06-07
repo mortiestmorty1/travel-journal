@@ -1,0 +1,7 @@
+.Nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40%;
+    background-color: #F55A5A;
+}

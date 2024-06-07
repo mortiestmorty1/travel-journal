@@ -1,0 +1,14 @@
+.Nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+    padding: 0 2rem;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+
+}

@@ -1,0 +1,44 @@
+.Nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+    height: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+    margin-left: 230px;
+}
+.title{
+  color: azure;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.earth{
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  color: azure;
+}
+
+.image{
+  width: 125px;
+  height: 168px;
+  margin-left: 5px;
+  color: azure;
+  border-radius: 5px;
+}
+.content-container{
+
+}
+.section1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Title{
+  
+}

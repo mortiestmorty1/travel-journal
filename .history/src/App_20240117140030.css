@@ -1,0 +1,12 @@
+.Nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F55A5A;
+}
